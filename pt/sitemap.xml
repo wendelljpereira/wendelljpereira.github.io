@@ -297,10 +297,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://wendelljpereira.github.io/pt/categories/r/" hreflang="pt"/>
-      <xhtml:link rel="alternate" href="https://wendelljpereira.github.io/categories/r/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://wendelljpereira.github.io/pt/tags/r/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="https://wendelljpereira.github.io/tags/r/" hreflang="en"/>
     
-      <loc>https://wendelljpereira.github.io/pt/categories/r/</loc>
+      <loc>https://wendelljpereira.github.io/pt/tags/r/</loc>
       <lastmod>2017-10-17T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -310,10 +310,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://wendelljpereira.github.io/pt/tags/r/" hreflang="pt"/>
-      <xhtml:link rel="alternate" href="https://wendelljpereira.github.io/tags/r/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://wendelljpereira.github.io/pt/categories/r/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="https://wendelljpereira.github.io/categories/r/" hreflang="en"/>
     
-      <loc>https://wendelljpereira.github.io/pt/tags/r/</loc>
+      <loc>https://wendelljpereira.github.io/pt/categories/r/</loc>
       <lastmod>2017-10-17T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
